@@ -33,7 +33,7 @@
 
 ## Estructura del Proyecto
 - `data`: Contiene las clases de base de datos (`Room`) y repositorios.
-- `ui`: Implementa las pantallas (`RegisterScreen`, `ApplicationsScreen`) utilizando Jetpack Compose.
+- `ui`: Implementa las pantallas (`RegisterScreen`, `ApplicationsScreen`,`RegisterScreen`) utilizando Jetpack Compose.
 - `viewmodel`: Contiene la lógica de negocio y estado de la UI mediante `ViewModel` y `StateFlow`.
 - `Optimizer`: Contiene la lógica para analizar las aplicaciones y generar recomendaciones.
 
